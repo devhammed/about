@@ -7,8 +7,8 @@ addEventListener('fetch', event => {
 })
 
 /**
- * Many more examples available at:
- *   https://developers.cloudflare.com/workers/examples
+ * Handle the serverless request.
+ *
  * @param {Request} request
  * @returns {Promise<Response>}
  */
