@@ -1,0 +1,7 @@
+name = "about"
+type = "javascript"
+
+account_id = "aa33fdcc53018632ae60b2dd40749163"
+route = ""
+workers_dev = true
+zone_id = ""

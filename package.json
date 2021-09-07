@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "about",
+  "version": "1.0.0",
+  "description": "About me on CloudFare Workers",
+  "main": "index.js",
+  "author": "Hammed Oyedele <itz.harmid@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "wrangler dev"
+  }
+}
